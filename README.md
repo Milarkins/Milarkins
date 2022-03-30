@@ -4,7 +4,7 @@
 **What I Know:**
 unity c#, 
 Javascript basics, 
-Typescript, 
+Typescript
 
 **What I Want To Learn:**
 Lua
